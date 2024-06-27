@@ -1,0 +1,14 @@
+*-Implementaion of Lamport's logical clock-*
+
+=> clock synchronization
+
+~phycical clock
+~logical clock
+
+--physical lock using algorithm ---- not this line in actual report
+    -christian algorithm
+    -berkeley algorithm
+    -network time protocol
+
+--logical lock using algorithm ---- not this line in actual report
+    -order of events
